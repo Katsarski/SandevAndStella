@@ -130,6 +130,10 @@ GameObject:
   m_Component:
   - component: {fileID: 21427489}
   - component: {fileID: 21427488}
+  - component: {fileID: 21427493}
+  - component: {fileID: 21427492}
+  - component: {fileID: 21427491}
+  - component: {fileID: 21427490}
   - component: {fileID: 21427487}
   m_Layer: 0
   m_Name: GameObject
@@ -147,10 +151,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 21427486}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc54e7a54f9ac9f4596f24078e5bee1f, type: 3}
+  m_Script: {fileID: 11500000, guid: 49ec3304601dc7848ad5cf188dd4a444, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shipSettings: {fileID: 11400000, guid: fc665f7d39991e941822009f45ce5825, type: 2}
+  maxHealth: 100
 --- !u!212 &21427488
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -213,6 +217,61 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &21427490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21427486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16aad3e3a582f534d8459a9f5ed559b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 30
+  turnSpeed: 5
+--- !u!114 &21427491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21427486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1df9ae72d79964646bc31788c40d3b2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 0}
+  weaponMountPoint: {fileID: 0}
+  fireForce: 300
+--- !u!114 &21427492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21427486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03622f461762d5447b0f0a3b72fb6dfc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrusterParticles: {fileID: 0}
+  deathParticleSystemPrefab: {fileID: 0}
+--- !u!114 &21427493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21427486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6406bd66bac3414095df4e5fbeaa42c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
