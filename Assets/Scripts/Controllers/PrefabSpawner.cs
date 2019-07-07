@@ -18,8 +18,17 @@ public class PrefabSpawner : MonoBehaviour
 
     private void Awake()
     {
-        flyingEnemyPrefab = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Enemies/FlyingEnemy.prefab", typeof(GameObject));
-        coinPrefab = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Coin.prefab", typeof(GameObject));
+        try
+        {
+            flyingEnemyPrefab = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Enemy/FlyingEnemy.prefab", typeof(GameObject));
+            coinPrefab = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Collectables/Coin.prefab", typeof(GameObject));
+        }
+        catch (System.Exception)
+        {
+            Debug.LogError("The prefab could not be found: Check the path where we try to get it");
+            throw;
+        }
+        
         if (instance != null)
         {
             Destroy(gameObject); //if an instance already exists destry this one...
@@ -50,7 +59,15 @@ public class PrefabSpawner : MonoBehaviour
         // Spawn them!
         for (int i = 0; i < count; ++i)
         {
-            Instantiate(coinPrefab, position, Quaternion.identity);
+            try
+            {
+                Instantiate(coinPrefab, position, Quaternion.identity);
+            }
+            catch (System.Exception)
+            {
+                Debug.LogError("The prefab could not be found: Check the path where we try to get it");
+                throw;
+            }
         }
     }
 
