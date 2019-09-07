@@ -12,9 +12,9 @@ public class PrefabSpawner : MonoBehaviour
     Object coinPrefab;
 
     [SerializeField]
-    private int minimumCount = 0;
+    private int minimumCoinCount = 0;
     [SerializeField]
-    private int maximumCount = 2;
+    private int maximumCoinCount = 2;
 
     private void Awake()
     {
@@ -38,18 +38,17 @@ public class PrefabSpawner : MonoBehaviour
             instance = this; ////...otherwise take it...
             DontDestroyOnLoad(gameObject); //...and keep alive.
         }
-        InvokeRepeating("Spawn_DELETE_ME", 0, 5);
     }
 
     public int MinimumCount
     {
-        get { return this.minimumCount; }
-        set { this.minimumCount = value; }
+        get { return this.minimumCoinCount; }
+        set { this.minimumCoinCount = value; }
     }
     public int MaximumCount
     {
-        get { return this.maximumCount; }
-        set { this.maximumCount = value; }
+        get { return this.maximumCoinCount; }
+        set { this.maximumCoinCount = value; }
     }
 
     public void SpawnCoins(Vector2 position)
@@ -70,15 +69,4 @@ public class PrefabSpawner : MonoBehaviour
             }
         }
     }
-
-    void Spawn_DELETE_ME()
-    {
-        int count = Random.Range(this.MinimumCount, this.MaximumCount);
-        // Spawn them!
-        for (int i = 0; i < count; ++i)
-        {
-            Instantiate(flyingEnemyPrefab, this.transform.position, Quaternion.identity);
-        }
-    }
-
 }

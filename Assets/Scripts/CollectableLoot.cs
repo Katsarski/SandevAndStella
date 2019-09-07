@@ -16,7 +16,6 @@ public class CollectableLoot : MonoBehaviour {
     private int minPushYForceVelocity = 4;
     [SerializeField]
     private int maxPushYForceVelocity = 7;
-
     [SerializeField]
     private int minPushXForceVelocity = -1;
     [SerializeField]

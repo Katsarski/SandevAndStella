@@ -91,14 +91,6 @@ public class PlayerHealth : MonoBehaviour
             {
                 hearts[i].sprite = emptyHeart;
             }
-            //if (i < currentHP)
-            //{
-            //    hearts[i].enabled = true;
-            //}
-            //else
-            //{
-            //    hearts[i].enabled = false;
-            //}
         }
 
     }
@@ -132,7 +124,6 @@ public class PlayerHealth : MonoBehaviour
 
     void Flash()
     {
-
             if (flashEffectTrigger == true)
             {
                 sr.color = flashColor;
@@ -143,6 +134,5 @@ public class PlayerHealth : MonoBehaviour
                 sr.color = normalColor;
                 flashEffectTrigger = true;
             }
-        
     }
 }

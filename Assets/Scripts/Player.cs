@@ -20,7 +20,7 @@ public class Player : MonoBehaviour
     [SerializeField]
     private float lowJumpMultiplier = 2f;
     [SerializeField]
-    [Range(1, 10)]
+    [Range(1, 100)]
     private float jumpVelocity;
 
     #region GroundVars
@@ -32,6 +32,8 @@ public class Player : MonoBehaviour
     private float groundCheckRadius;
     [SerializeField]
     private LayerMask ground;
+    [SerializeField]
+    private float enemyHeadJumpMultiplier;
     #endregion
 
     void Awake()
@@ -62,22 +64,18 @@ public class Player : MonoBehaviour
         if (SimpleInput.GetButton("Jump") && isGrounded == true)
         {
             //Jump
-            myRigidbody.velocity = Vector2.up * jumpVelocity;
+            myRigidbody.velocity += Vector2.up * System.Math.Abs(Physics2D.gravity.y) * Time.deltaTime * jumpVelocity;
             anim.SetBool("Jump", true);
         }
         //Check if we are falling and player is still holding Jump
         if (myRigidbody.velocity.y < 0)
         {
-            //We go Up
-            Debug.Log("wtf1");
             myRigidbody.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.deltaTime;
         }
         //Check if we are falling and player has released Jump
         else if (myRigidbody.velocity.y > 0 && !SimpleInput.GetButton("Jump"))
         {
-            //We go Down
-            Debug.Log("wtf2");
-            myRigidbody.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
+            myRigidbody.velocity += (Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime);
         }
         #endregion
 
@@ -134,7 +132,7 @@ public class Player : MonoBehaviour
                 }
                 
                 Destroy(other.gameObject);
-                myRigidbody.velocity = Vector2.up * jumpVelocity;
+                myRigidbody.velocity = Vector2.up * enemyHeadJumpMultiplier;
             }
             //Otherwise player gets damaged
             else
