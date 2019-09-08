@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Lean.Pool;
 using UnityEditor;
 using UnityEngine;
 
@@ -8,36 +9,21 @@ public class PrefabSpawner : MonoBehaviour
 
     public static PrefabSpawner instance;
 
-    Object flyingEnemyPrefab;
-    Object coinPrefab;
+    public GameObject CoinsPool;
+
+    public GameObject CoinPrefab;
 
     [SerializeField]
     private int minimumCoinCount = 0;
     [SerializeField]
     private int maximumCoinCount = 2;
 
+    LeanGameObjectPool pool;
+
     private void Awake()
     {
-        try
-        {
-            flyingEnemyPrefab = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Enemy/FlyingEnemy.prefab", typeof(GameObject));
-            coinPrefab = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Collectables/Coin.prefab", typeof(GameObject));
-        }
-        catch (System.Exception)
-        {
-            Debug.LogError("The prefab could not be found: Check the path where we try to get it");
-            throw;
-        }
-        
-        if (instance != null)
-        {
-            Destroy(gameObject); //if an instance already exists destry this one...
-        }
-        else
-        {
-            instance = this; ////...otherwise take it...
-            DontDestroyOnLoad(gameObject); //...and keep alive.
-        }
+        instance = this;
+        pool = CoinsPool.GetComponent<LeanGameObjectPool>();
     }
 
     public int MinimumCount
@@ -51,6 +37,7 @@ public class PrefabSpawner : MonoBehaviour
         set { this.maximumCoinCount = value; }
     }
 
+
     public void SpawnCoins(Vector2 position)
     {
         // Randomly pick the count of prefabs to spawn.
@@ -60,12 +47,13 @@ public class PrefabSpawner : MonoBehaviour
         {
             try
             {
-                Instantiate(coinPrefab, position, Quaternion.identity);
+                LeanPool.Spawn(CoinPrefab, position, Quaternion.identity);
+                //pool.Spawn(position, Quaternion.identity);
+                //Instantiate(coinPrefab, position, Quaternion.identity);
             }
             catch (System.Exception)
             {
-                Debug.LogError("The prefab could not be found: Check the path where we try to get it");
-                throw;
+                Debug.LogError("Could not spawn prefab");
             }
         }
     }

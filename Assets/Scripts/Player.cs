@@ -38,16 +38,7 @@ public class Player : MonoBehaviour
 
     void Awake()
     {
-        //Singleton
-        if (instance != null)
-        {
-            Destroy(gameObject); //if an instance already exists destry this one...
-        }
-        else
-        {
-            instance = this; ////...otherwise take it...
-            DontDestroyOnLoad(gameObject); //...and keep alive.
-        }
+        instance = this;
         facingRight = true;
         myRigidbody = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();

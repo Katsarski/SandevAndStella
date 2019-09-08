@@ -6,12 +6,13 @@ public class LevelManager : MonoBehaviour
 {
     //Respawn locations
     //Level boundaries
-
+    public static LevelManager instance;
+    public int levelNumber;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
-        
+        instance = this;
     }
 
     // Update is called once per frame
