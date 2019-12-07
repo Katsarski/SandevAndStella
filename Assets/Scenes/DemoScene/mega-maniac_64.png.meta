@@ -1,0 +1,3511 @@
+fileFormatVersion: 2
+guid: 81792b736149d6d4aadf2ebb6c661d15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6760581700115824069
+    second: mega-maniac_64_0
+  - first:
+      213: -2726349718373169439
+    second: mega-maniac_64_1
+  - first:
+      213: -5302745402730138362
+    second: mega-maniac_64_2
+  - first:
+      213: 184678448448800218
+    second: mega-maniac_64_3
+  - first:
+      213: 5368237453730913433
+    second: mega-maniac_64_4
+  - first:
+      213: -4134036678929783780
+    second: mega-maniac_64_5
+  - first:
+      213: 1667578959866921145
+    second: mega-maniac_64_6
+  - first:
+      213: 8526812405375348987
+    second: mega-maniac_64_7
+  - first:
+      213: -3649553373559733338
+    second: mega-maniac_64_8
+  - first:
+      213: 5353587861533324342
+    second: mega-maniac_64_9
+  - first:
+      213: 1514565616489549419
+    second: mega-maniac_64_10
+  - first:
+      213: -2814448835202927559
+    second: mega-maniac_64_11
+  - first:
+      213: -6236227142935507706
+    second: mega-maniac_64_12
+  - first:
+      213: 8558693098602878436
+    second: mega-maniac_64_13
+  - first:
+      213: 6882311020365976991
+    second: mega-maniac_64_14
+  - first:
+      213: 3160653976844119845
+    second: mega-maniac_64_15
+  - first:
+      213: -4486592810825794347
+    second: mega-maniac_64_16
+  - first:
+      213: -2239539393004960124
+    second: mega-maniac_64_17
+  - first:
+      213: 3139074201642426635
+    second: mega-maniac_64_18
+  - first:
+      213: -1514019515043447434
+    second: mega-maniac_64_19
+  - first:
+      213: -3481738555398103057
+    second: mega-maniac_64_20
+  - first:
+      213: -3633510254570418651
+    second: mega-maniac_64_21
+  - first:
+      213: -2440997956950069384
+    second: mega-maniac_64_22
+  - first:
+      213: 4534733837311890472
+    second: mega-maniac_64_23
+  - first:
+      213: 2345968894149039508
+    second: mega-maniac_64_24
+  - first:
+      213: 7847089920853574831
+    second: mega-maniac_64_25
+  - first:
+      213: -1573239480066495997
+    second: mega-maniac_64_26
+  - first:
+      213: -8478765787664624354
+    second: mega-maniac_64_27
+  - first:
+      213: -5446649615626341389
+    second: mega-maniac_64_28
+  - first:
+      213: 512254425126596124
+    second: mega-maniac_64_29
+  - first:
+      213: 9004828444509520963
+    second: mega-maniac_64_30
+  - first:
+      213: 294629078001454407
+    second: mega-maniac_64_31
+  - first:
+      213: 126354038893457017
+    second: mega-maniac_64_32
+  - first:
+      213: -9098094998537509682
+    second: mega-maniac_64_33
+  - first:
+      213: 4688956548849028760
+    second: mega-maniac_64_34
+  - first:
+      213: -1542138230966644571
+    second: mega-maniac_64_35
+  - first:
+      213: 4890158695338370251
+    second: mega-maniac_64_36
+  - first:
+      213: -5323057581066924892
+    second: mega-maniac_64_37
+  - first:
+      213: -5625323094082255091
+    second: mega-maniac_64_38
+  - first:
+      213: -2378810873008193108
+    second: mega-maniac_64_39
+  - first:
+      213: 5273991413976802112
+    second: mega-maniac_64_40
+  - first:
+      213: 6930256874907758432
+    second: mega-maniac_64_41
+  - first:
+      213: 5886524275522089891
+    second: mega-maniac_64_42
+  - first:
+      213: -4848483752763885957
+    second: mega-maniac_64_43
+  - first:
+      213: -8115032006786915608
+    second: mega-maniac_64_44
+  - first:
+      213: 5976758785515925879
+    second: mega-maniac_64_45
+  - first:
+      213: 1469898065138795335
+    second: mega-maniac_64_46
+  - first:
+      213: -4081756076161603639
+    second: mega-maniac_64_47
+  - first:
+      213: 1372767352588773606
+    second: mega-maniac_64_48
+  - first:
+      213: 8152512424619092640
+    second: mega-maniac_64_49
+  - first:
+      213: 7070160422974848274
+    second: mega-maniac_64_50
+  - first:
+      213: -3416859123978392978
+    second: mega-maniac_64_51
+  - first:
+      213: 3932079692986050349
+    second: mega-maniac_64_52
+  - first:
+      213: -211695627255364557
+    second: mega-maniac_64_53
+  - first:
+      213: 6929299211671269466
+    second: mega-maniac_64_54
+  - first:
+      213: -4559754699726750970
+    second: mega-maniac_64_55
+  - first:
+      213: -7840975970332771506
+    second: mega-maniac_64_56
+  - first:
+      213: 1347642497003073305
+    second: mega-maniac_64_57
+  - first:
+      213: -95941787748001027
+    second: mega-maniac_64_58
+  - first:
+      213: -4642902539305664423
+    second: mega-maniac_64_59
+  - first:
+      213: -457052303834813537
+    second: mega-maniac_64_60
+  - first:
+      213: 6918564801489996663
+    second: mega-maniac_64_61
+  - first:
+      213: 6115889995710943858
+    second: mega-maniac_64_62
+  - first:
+      213: -6306300391577763649
+    second: mega-maniac_64_63
+  - first:
+      213: 2433020305232397117
+    second: mega-maniac_64_64
+  - first:
+      213: -5224717804789283175
+    second: mega-maniac_64_65
+  - first:
+      213: 2298542752568692782
+    second: mega-maniac_64_66
+  - first:
+      213: -3257294962719766813
+    second: mega-maniac_64_67
+  - first:
+      213: -8560388455723143511
+    second: mega-maniac_64_68
+  - first:
+      213: 4955317014847379558
+    second: mega-maniac_64_69
+  - first:
+      213: -8394583231967216317
+    second: mega-maniac_64_70
+  - first:
+      213: 1830249513741442078
+    second: mega-maniac_64_71
+  - first:
+      213: 6763432627926381164
+    second: mega-maniac_64_72
+  - first:
+      213: -6924683518561620190
+    second: mega-maniac_64_73
+  - first:
+      213: 961798540528811542
+    second: mega-maniac_64_74
+  - first:
+      213: -3448973739989297909
+    second: mega-maniac_64_75
+  - first:
+      213: -6166458346307175880
+    second: mega-maniac_64_76
+  - first:
+      213: 7023673609428131614
+    second: mega-maniac_64_77
+  - first:
+      213: -3575000311189275196
+    second: mega-maniac_64_78
+  - first:
+      213: 845578806017927019
+    second: mega-maniac_64_79
+  - first:
+      213: -4875264863215798900
+    second: mega-maniac_64_80
+  - first:
+      213: -8429329244594098033
+    second: mega-maniac_64_81
+  - first:
+      213: -1592319792246369221
+    second: mega-maniac_64_82
+  - first:
+      213: -8776678064396136181
+    second: mega-maniac_64_83
+  - first:
+      213: -7167491252772032121
+    second: mega-maniac_64_84
+  - first:
+      213: 3042092328820571503
+    second: mega-maniac_64_85
+  - first:
+      213: 4889237553712393598
+    second: mega-maniac_64_86
+  - first:
+      213: -5198981299233357643
+    second: mega-maniac_64_87
+  - first:
+      213: -8424415108275426567
+    second: mega-maniac_64_88
+  - first:
+      213: -6252433773073009078
+    second: mega-maniac_64_89
+  - first:
+      213: 5765972591374418738
+    second: mega-maniac_64_90
+  - first:
+      213: 5389716441606363514
+    second: mega-maniac_64_91
+  - first:
+      213: 3479815568400368248
+    second: mega-maniac_64_92
+  - first:
+      213: -1576022530876720379
+    second: mega-maniac_64_93
+  - first:
+      213: 4192062140625279318
+    second: mega-maniac_64_94
+  - first:
+      213: 3142269923398912077
+    second: mega-maniac_64_95
+  - first:
+      213: -4104372193596612997
+    second: mega-maniac_64_96
+  - first:
+      213: -780944731738801816
+    second: mega-maniac_64_97
+  - first:
+      213: -6703919130690162742
+    second: mega-maniac_64_98
+  - first:
+      213: 9014266518984239343
+    second: mega-maniac_64_99
+  - first:
+      213: 3463218421566006413
+    second: mega-maniac_64_100
+  - first:
+      213: -2716759952509830416
+    second: mega-maniac_64_101
+  - first:
+      213: -7681689597217640832
+    second: mega-maniac_64_102
+  - first:
+      213: 5119122449791876266
+    second: mega-maniac_64_103
+  - first:
+      213: 6666836212343536936
+    second: mega-maniac_64_104
+  - first:
+      213: 1443825426668023366
+    second: mega-maniac_64_105
+  - first:
+      213: 8979788769187047283
+    second: mega-maniac_64_106
+  - first:
+      213: -1749910520925877164
+    second: mega-maniac_64_107
+  - first:
+      213: 263481944007853969
+    second: mega-maniac_64_108
+  - first:
+      213: 1033572204383931106
+    second: mega-maniac_64_109
+  - first:
+      213: -4652818585334994944
+    second: mega-maniac_64_110
+  - first:
+      213: -2995717844855566350
+    second: mega-maniac_64_111
+  - first:
+      213: -7181503431289320890
+    second: mega-maniac_64_112
+  - first:
+      213: -4196013510563413181
+    second: mega-maniac_64_113
+  - first:
+      213: -8081278353769977699
+    second: mega-maniac_64_114
+  - first:
+      213: 4401490345251377693
+    second: mega-maniac_64_115
+  - first:
+      213: 6852708828767015694
+    second: mega-maniac_64_116
+  - first:
+      213: 5272019089974260860
+    second: mega-maniac_64_117
+  - first:
+      213: -4505213581821766923
+    second: mega-maniac_64_118
+  - first:
+      213: 7188663569421875400
+    second: mega-maniac_64_119
+  - first:
+      213: -285185172005435471
+    second: mega-maniac_64_120
+  - first:
+      213: -4295856109446334533
+    second: mega-maniac_64_121
+  - first:
+      213: 717003052775511076
+    second: mega-maniac_64_122
+  - first:
+      213: 7599168120825854323
+    second: mega-maniac_64_123
+  - first:
+      213: 6194412860979861055
+    second: mega-maniac_64_124
+  - first:
+      213: -6624424842294294673
+    second: mega-maniac_64_125
+  - first:
+      213: -3747260266034877809
+    second: mega-maniac_64_126
+  - first:
+      213: 8103331182991572613
+    second: mega-maniac_64_127
+  - first:
+      213: 2698631383215314590
+    second: mega-maniac_64_128
+  - first:
+      213: 187681036801127657
+    second: mega-maniac_64_129
+  - first:
+      213: 4297426646971315568
+    second: mega-maniac_64_130
+  - first:
+      213: 296407119681005853
+    second: mega-maniac_64_131
+  - first:
+      213: 8309474685627445936
+    second: mega-maniac_64_132
+  - first:
+      213: 4608579868764433678
+    second: mega-maniac_64_133
+  - first:
+      213: 31069196478938805
+    second: mega-maniac_64_134
+  - first:
+      213: 8829887370963747090
+    second: mega-maniac_64_135
+  - first:
+      213: -6875214665028125436
+    second: mega-maniac_64_136
+  - first:
+      213: -4916497340820069332
+    second: mega-maniac_64_137
+  - first:
+      213: 58461227628719892
+    second: mega-maniac_64_138
+  - first:
+      213: -5775962434641764444
+    second: mega-maniac_64_139
+  - first:
+      213: -6524787924697935251
+    second: mega-maniac_64_140
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mega-maniac_64_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3526
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14713691e7a40541a5b95122dcdbdb3
+      internalID: 6760581700115824069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3526
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2af1e1114b056e4fb6bdeb2d3c57dec
+      internalID: -2726349718373169439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3526
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e430b8ec5110d284088f12e3ac882448
+      internalID: -5302745402730138362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3526
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b0dfcf0490ea4e84377f16c2837e9
+      internalID: 184678448448800218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3526
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260eaf42a5e7e5444aecea18c3714eeb
+      internalID: 5368237453730913433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3400
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9823b44c424e5449fd1a554c85606d
+      internalID: -4134036678929783780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3400
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c79293c5d257248ad1c00001b0a80a
+      internalID: 1667578959866921145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3400
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c824b48ddca54dd499b9b186280e2cae
+      internalID: 8526812405375348987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 3400
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e109ec623650f443b84d3262353298a
+      internalID: -3649553373559733338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3400
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79115c26063cb042a536870eff58ce4
+      internalID: 5353587861533324342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3273
+        width: 63
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108091af713dbc8458da7a7e53ebf9b3
+      internalID: 1514565616489549419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3273
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c86caba4f04494399fb67428b91d37
+      internalID: -2814448835202927559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3273
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba23d40f6de9ce4fb8e8c08b3f22f4d
+      internalID: -6236227142935507706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3273
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e197a8f12b069af44a92b7635c67a5a3
+      internalID: 8558693098602878436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_14
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3273
+        width: 63
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c16f32aa73d7b54f89946d66b725326
+      internalID: 6882311020365976991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3148
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34162150d7a700b44a52f647688e1c40
+      internalID: 3160653976844119845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3148
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f796fa84ed7249b734b43ca91b3ce
+      internalID: -4486592810825794347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3148
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82844e9178e975e4d8f99bdbaa095d89
+      internalID: -2239539393004960124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_18
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3148
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3014826239efedd46b831f4001d7df88
+      internalID: 3139074201642426635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_19
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3148
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579a29959c6302540bad39e18e220916
+      internalID: -1514019515043447434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3022
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0ed035b3ae8b842be472478cbcb47b
+      internalID: -3481738555398103057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3022
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48287dfc48b4d6649808af9e2e677026
+      internalID: -3633510254570418651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3022
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3196c20c18a5f9e49aae51f846332fed
+      internalID: -2440997956950069384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3022
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7806f8717605e04187071adf7b6c077
+      internalID: 4534733837311890472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3022
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31c26ce2437c941bbb27ad3e60937f
+      internalID: 2345968894149039508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2897
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1190bfd72b7f47f4698ac3150f85799c
+      internalID: 7847089920853574831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2897
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4695380776d8944ab2dcebfbd5146e
+      internalID: -1573239480066495997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2897
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396b6e4545f742740a3ad824b5d057c1
+      internalID: -8478765787664624354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2897
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcb6306d07e2894b89c2a41b2415e5d
+      internalID: -5446649615626341389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_29
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2897
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1262526af00e94abcd2f23165fdb43
+      internalID: 512254425126596124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2774
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da37e4c5b6be6be49b6e2bbb69a950b9
+      internalID: 9004828444509520963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2770
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa09461298545e48846f0da2799b2b7
+      internalID: 294629078001454407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2770
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2674b0695016454aa73bcdc9e6e6040
+      internalID: 126354038893457017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2770
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ebef69313c824bb8683f748ab6d8a
+      internalID: -9098094998537509682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_34
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2770
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a04a41bed29d446a8eac12b4f8f4e6
+      internalID: 4688956548849028760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2644
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaa22c612f5d0a4a907e53adfdde83c
+      internalID: -1542138230966644571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2644
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be79b243946c3c14ba6fd295bb2f18da
+      internalID: 4890158695338370251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2644
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92df5612bf4cde4f9e1b2a5da119314
+      internalID: -5323057581066924892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2644
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440d74f18e52e14479ddd925fa97a723
+      internalID: -5625323094082255091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2644
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bc64adb698cc744acd606e46bfe721
+      internalID: -2378810873008193108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2519
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0402fe66ed7b9b46baa59844ce85c37
+      internalID: 5273991413976802112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_41
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2519
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d7139209671b74ea3fec108062d38e
+      internalID: 6930256874907758432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2519
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d40412421378fc488faefbbd1458e34
+      internalID: 5886524275522089891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_43
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2519
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b2ea03f7819e747818e3c5b5a5dacc
+      internalID: -4848483752763885957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_44
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2519
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c546d807fa986474086c57ea2dc29e57
+      internalID: -8115032006786915608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2393
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9333a16cf1c721947af5077055df112d
+      internalID: 5976758785515925879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2393
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a03f5deecd26d5428eae168cea6e73f
+      internalID: 1469898065138795335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_47
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2393
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a95a8e942c28e4f8964ae4a19afda2
+      internalID: -4081756076161603639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_48
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2393
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8f0e452b9c1b94c804670aeeaf7e66
+      internalID: 1372767352588773606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_49
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2393
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ae84c38c5a7364881ccd4d9de27b01
+      internalID: 8152512424619092640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_50
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2267
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc20816e9e9a1409a10409ba958ee9
+      internalID: 7070160422974848274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2267
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a69763981555974fb38d80821750105
+      internalID: -3416859123978392978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2267
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb349fd9a5a194ea9860fbc59b0364
+      internalID: 3932079692986050349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2267
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e6b30eb9435443950912dfe76f403
+      internalID: -211695627255364557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_54
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2267
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd6aa29c421fc34ebb90625ff92f607
+      internalID: 6929299211671269466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2141
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5552bba1e0546a846b5b8e9a7fe3bad7
+      internalID: -4559754699726750970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2141
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e45a2d530c221d48b93ff1a003c3419
+      internalID: -7840975970332771506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_57
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2141
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7addcd2f5380949ba09af96bc39364
+      internalID: 1347642497003073305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2141
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b96018a8351b946aa8436f59c36491
+      internalID: -95941787748001027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_59
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2141
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d190a70794d6f3a458f96f90312dffdd
+      internalID: -4642902539305664423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2015
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00795d9d1af6d4683708fb68198855
+      internalID: -457052303834813537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2015
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d47c98a2e338349b38320fba9e1c1a
+      internalID: 6918564801489996663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_62
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2015
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09357684bf9bc7469083bc28ba22886
+      internalID: 6115889995710943858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_63
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2015
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336aa996f419e774a90fa75ecb764d03
+      internalID: -6306300391577763649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_64
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2015
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a15969ea5c60ce488738d071d48f793
+      internalID: 2433020305232397117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_65
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1890
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46019bc7c81338747b835f4d21a15e6a
+      internalID: -5224717804789283175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1890
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada3bec3386bac74888fb2a4283bb909
+      internalID: 2298542752568692782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1890
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c395ec993646499a2c428f6a35ae9
+      internalID: -3257294962719766813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1890
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305084bd18fb3644285b2aacae9d2f20
+      internalID: -8560388455723143511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1890
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4634c8c549cfb4a80f82de2a83680a
+      internalID: 4955317014847379558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1764
+        width: 79
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f16d242115b24e8e9ffce561a9a43
+      internalID: -8394583231967216317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1764
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f6c67718675b04a8a972bf95a1a69d
+      internalID: 1830249513741442078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_72
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1764
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28b547be01b8f43af3ac2a6060f655
+      internalID: 6763432627926381164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_73
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1764
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf2cad0082368b448f0a8d368ecd839
+      internalID: -6924683518561620190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_74
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1764
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37131e3f809aa0c45b03d2f9733b8993
+      internalID: 961798540528811542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_75
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1637
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f9faab74bc09740affaf1c0b0ce0f0
+      internalID: -3448973739989297909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1637
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e542010c2ec649a1b396d5137113a
+      internalID: -6166458346307175880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_77
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1637
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f3f3fc01200745a166214574c4dfc
+      internalID: 7023673609428131614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1637
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd303e19837f64a83ef52c6fac969f
+      internalID: -3575000311189275196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_79
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1637
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a77ace527b7512469d55ff0e79ac548
+      internalID: 845578806017927019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_80
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1512
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d128ff037ddf848a3ca1abab68dea5
+      internalID: -4875264863215798900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1512
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d47d69217c8064f86ee2a5b57259c5
+      internalID: -8429329244594098033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_82
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1512
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a584624d2ddf014abc08dde747ba010
+      internalID: -1592319792246369221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_83
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1512
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7894deb899903e546b2d9bc92adeb3c0
+      internalID: -8776678064396136181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_84
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1512
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e114423261de5d47a7f95d599127f27
+      internalID: -7167491252772032121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1386
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473ed95076b5dce4cb87e72fe397ebf1
+      internalID: 3042092328820571503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1386
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6e9815eccf2d48a10fd3e4e9649ed
+      internalID: 4889237553712393598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_87
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1386
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e353f2f7360a642a60b0fc9daa28aa
+      internalID: -5198981299233357643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_88
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1386
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4211f9c07d26aa42801bc7d86eb25f5
+      internalID: -8424415108275426567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_89
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1386
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4644ab2ce9ae58a47894140d79c38e26
+      internalID: -6252433773073009078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_90
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1260
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3a743d2de3e3549b2615d4c66a1d3d
+      internalID: 5765972591374418738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_91
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1260
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae561e2b398649d4897b1e2b0129f64d
+      internalID: 5389716441606363514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_92
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1260
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3f46bd93ccce4680dd2749751f97e
+      internalID: 3479815568400368248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_93
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1260
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83a1f1f2c884c40abdfd254e731d95
+      internalID: -1576022530876720379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_94
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1260
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85746e5b9eaee247985e7bf8b0782f2
+      internalID: 4192062140625279318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1134
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b833700ad42ec6c47a1faf9d347eca7c
+      internalID: 3142269923398912077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1134
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90290511946edc54b938da177a2de1dc
+      internalID: -4104372193596612997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_97
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1134
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626222a39fe4ac4792294bcbbe83e95
+      internalID: -780944731738801816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_98
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1134
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3047bcc8c322ed4d80e1abbc2ba99ce
+      internalID: -6703919130690162742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_99
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1134
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e7b0af03a07b45aac0c4595967080
+      internalID: 9014266518984239343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_100
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1008
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c289b6793966a5438ca74277853a449
+      internalID: 3463218421566006413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_101
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1008
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5b16b40e89614438ea94826029c347
+      internalID: -2716759952509830416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_102
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1008
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d1575faafc86a42990d9fec97f5d87
+      internalID: -7681689597217640832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_103
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1008
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf25f6de42d6a14eb8368e40b2d6a09
+      internalID: 5119122449791876266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_104
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1008
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ce949ebd09c2143acba979517ac2f5
+      internalID: 6666836212343536936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 883
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8839a27854432498ec320a08eeb138
+      internalID: 1443825426668023366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_106
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 883
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c9ebd77b6d3a4eb05993aa8c2a7aa
+      internalID: 8979788769187047283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_107
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 883
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ea6f28a70dbc04bbe6e4840ffe892f
+      internalID: -1749910520925877164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_108
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 883
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81756248d17a4234cb758d0af4f76a11
+      internalID: 263481944007853969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_109
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 883
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f8bfc9b75b334594d71ebc9ef2bcc
+      internalID: 1033572204383931106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_110
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 757
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7232ce850eae084b81a848caf258851
+      internalID: -4652818585334994944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 757
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd8f83a6845e1a40ba6f314b5fbf051
+      internalID: -2995717844855566350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_112
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 757
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5f4a0a6ba7abc4fba52d2a06e7dc39
+      internalID: -7181503431289320890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 757
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94b09ae175a92643ab3d3044eaba795
+      internalID: -4196013510563413181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_114
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 757
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337651d192b350b439b5b1159565340d
+      internalID: -8081278353769977699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_115
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 630
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a4769234b193d408958ddbce8415e5
+      internalID: 4401490345251377693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_116
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 630
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5364132a35b7e7148926190c28411be0
+      internalID: 6852708828767015694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_117
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 630
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05350d4593d9a004da24b9acb7527f7d
+      internalID: 5272019089974260860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_118
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 630
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1156f351342b3034199d98686631cf80
+      internalID: -4505213581821766923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_119
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 630
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aa7e428de70c7489782940f11eea2d
+      internalID: 7188663569421875400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_120
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 505
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d08f079ee04046982f4bf5c204e9a
+      internalID: -285185172005435471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_121
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 505
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e0a7a218156f4dacdca358211643e
+      internalID: -4295856109446334533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_122
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 505
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388822bd9b3c006468d6ff659caa53fb
+      internalID: 717003052775511076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_123
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 505
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc456f3ff29c264b884a25503e9f25f
+      internalID: 7599168120825854323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_124
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 505
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce25cec33c38ce4c88782ee4980e42e
+      internalID: 6194412860979861055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_125
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 379
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff222b4ba65d64448790993c09a217a
+      internalID: -6624424842294294673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_126
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 379
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dd7899e602eb543b95a050b3fd37e5
+      internalID: -3747260266034877809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_127
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 379
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f444f8e5414e64ab0afde43a83087c
+      internalID: 8103331182991572613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_128
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 379
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a78518c14d905c4d8799671783e9c7e
+      internalID: 2698631383215314590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_129
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 379
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c86a7ff651cb0b4f8f9e1b39f77c2ec
+      internalID: 187681036801127657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_130
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 253
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9fedf1a31ad39438100411ea739b48
+      internalID: 4297426646971315568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_131
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 253
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb0146777b99af44a05271de4db54f7
+      internalID: 296407119681005853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_132
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 253
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887071e9ea86a6448b85d4b955bff6fe
+      internalID: 8309474685627445936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_133
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 253
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec8adecd1b330469eac7c9aa6132e2
+      internalID: 4608579868764433678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 253
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef2aaa0831a05e4d908465653b77246
+      internalID: 31069196478938805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_135
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 127
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a23b7fb8a951b2409610669c885b8a4
+      internalID: 8829887370963747090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_136
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 127
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc63f1af09019943905aa3077fa207c
+      internalID: -6875214665028125436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_137
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 127
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d96ae9209ddc0745b70c04ca114c5be
+      internalID: -4916497340820069332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_138
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 127
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05755bfcb57906a4eabeb4e0ef8c3d57
+      internalID: 58461227628719892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 127
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11761c0f2961c80499bd0ed8b4903942
+      internalID: -5775962434641764444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega-maniac_64_140
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fa65265b7ed044db9fe73a007daf86
+      internalID: -6524787924697935251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

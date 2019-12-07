@@ -6,11 +6,13 @@ using UnityEngine.UI;
 public class Dialogue : MonoBehaviour
 {
     //public TextMeshProUGUI textDisplay;
+    public Image DialogueImage;
     public Text displayText;
     public string[] sentences;
     private int sentenceIndex;
     public float typingSpeed;
     public Button continueButton;
+    private int currentSentenceCounter;
 
     public void TypeDialogueMessage()
     {
@@ -24,8 +26,41 @@ public class Dialogue : MonoBehaviour
 
     public IEnumerator Type()
     {
-        foreach (char letter in sentences[sentenceIndex].ToCharArray())
+        //Swtich the image to whoever is speaking
+        switch (sentences[sentenceIndex])
         {
+            case "Sandef":
+                DialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
+                sentenceIndex += 1;
+                print("Sandef speaking");
+                break;
+            case "Stela":
+                DialogueImage.sprite = Resources.Load<Sprite>("Stela/Stela");
+                sentenceIndex += 1;
+                print("Stela speaking");
+                break;
+            case "Party_Maniac":
+                DialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
+                sentenceIndex += 1;
+                break;
+            case "Kids":
+                DialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
+                sentenceIndex += 1;
+                break;
+            case "Sandef_And_Stela":
+                DialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
+                sentenceIndex += 1;
+                break;
+
+
+            default:
+                break;
+        }
+
+        //To not print the speaker we increase sentenceIndex
+        
+        foreach (char letter in sentences[sentenceIndex].ToCharArray())
+        {        
             displayText.text += letter;
             yield return new WaitForSeconds(typingSpeed);
         }
@@ -34,6 +69,7 @@ public class Dialogue : MonoBehaviour
     //Called when the dialogue is clicked
     public void NextSentence()
     {
+        currentSentenceCounter += 1;
         //If the player has clicked the dialogue and the text is not yet populated increase the typing speed
         if (displayText.text != sentences[sentenceIndex])
         {

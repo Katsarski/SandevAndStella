@@ -1,13 +1,22 @@
 fileFormatVersion: 2
-guid: c8884fac1cd371345a874d5ccfdc7aa7
+guid: c267e68345ed057469f7e12a3bc94563
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: CatWalk_0
+      213: -2638218786633116672
+    second: Sandev_Idle_0
   - first:
-      213: 21300002
-    second: CatWalk_1
+      213: 2957334582271781484
+    second: Sandev_Idle_1
+  - first:
+      213: 7378698730519573142
+    second: Sandev_Idle_2
+  - first:
+      213: -1661024712565538538
+    second: Sandev_Idle_3
+  - first:
+      213: 6141501113059816123
+    second: Sandev_Idle_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -66,7 +75,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -78,19 +87,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -102,7 +99,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -111,18 +108,30 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CatWalk_0
+      name: Sandev_Idle_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 12
-        width: 18
-        height: 30
+        x: 2
+        y: 2
+        width: 59
+        height: 75
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
+      spriteID: 6fe52b53e4f56644d9c642f2ad693721
+      internalID: -2638218786633116672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CatWalk_1
+      name: Sandev_Idle_1
       rect:
         serializedVersion: 2
-        x: 58
-        y: 12
-        width: 18
-        height: 30
+        x: 104
+        y: 0
+        width: 58
+        height: 75
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,8 +160,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
+      spriteID: b165c59165fff984398502a0cec9c232
+      internalID: 2957334582271781484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandev_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6de01c4b27adba40ace6041e50fb928
+      internalID: 7378698730519573142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandev_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 6
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234ceac45fe9b34daeeecef86554ebd
+      internalID: -1661024712565538538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandev_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 8
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81134eb0cd40be146a4e5b27f68486a9
+      internalID: 6141501113059816123
       vertices: []
       indices: 
       edges: []
@@ -160,7 +232,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
