@@ -27,38 +27,29 @@ public class Dialogue : MonoBehaviour
     public IEnumerator Type()
     {
         //Swtich the image to whoever is speaking
-        switch (sentences[sentenceIndex])
+        if (sentences[sentenceIndex].ToLowerInvariant().Equals("sandef"))
         {
-            case "Sandef":
-                DialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
-                sentenceIndex += 1;
-                print("Sandef speaking");
-                break;
-            case "Stela":
-                DialogueImage.sprite = Resources.Load<Sprite>("Stela/Stela");
-                sentenceIndex += 1;
-                print("Stela speaking");
-                break;
-            case "Party_Maniac":
-                DialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
-                sentenceIndex += 1;
-                break;
-            case "Kids":
-                DialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
-                sentenceIndex += 1;
-                break;
-            case "Sandef_And_Stela":
-                DialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
-                sentenceIndex += 1;
-                break;
-
-
-            default:
-                break;
+            DialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
         }
-
+        else if (sentences[sentenceIndex].ToLowerInvariant().Equals("stela"))
+        {
+            DialogueImage.sprite = Resources.Load<Sprite>("Stela/Stela");
+        }
+        else if (sentences[sentenceIndex].ToLowerInvariant().Equals("sandef_and_stela"))
+        {
+            DialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
+        }
+        else if (sentences[sentenceIndex].ToLowerInvariant().Equals("party_maniac"))
+        {
+            DialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
+        }
+        else if (sentences[sentenceIndex].ToLowerInvariant().Equals("kids"))
+        {
+            DialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
+        }
         //To not print the speaker we increase sentenceIndex
-        
+        sentenceIndex += 1;
+
         foreach (char letter in sentences[sentenceIndex].ToCharArray())
         {        
             displayText.text += letter;
