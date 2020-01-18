@@ -6,7 +6,8 @@ using UnityEngine.UI;
 public class Dialogue : MonoBehaviour
 {
     //public TextMeshProUGUI textDisplay;
-    public Image DialogueImage;
+    public Image PlayerDialogueImage;
+    public Image EnemyDialogueImage;
     public Text displayText;
     public string[] sentences;
     private int sentenceIndex;
@@ -29,23 +30,23 @@ public class Dialogue : MonoBehaviour
         //Swtich the image to whoever is speaking
         if (sentences[sentenceIndex].ToLowerInvariant().Equals("sandef"))
         {
-            DialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
+            PlayerDialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
         }
         else if (sentences[sentenceIndex].ToLowerInvariant().Equals("stela"))
         {
-            DialogueImage.sprite = Resources.Load<Sprite>("Stela/Stela");
+            PlayerDialogueImage.sprite = Resources.Load<Sprite>("Stela/Stela");
         }
         else if (sentences[sentenceIndex].ToLowerInvariant().Equals("sandef_and_stela"))
         {
-            DialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
+            PlayerDialogueImage.sprite = Resources.Load<Sprite>("Sandef/Sandef");
         }
         else if (sentences[sentenceIndex].ToLowerInvariant().Equals("party_maniac"))
         {
-            DialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
+            EnemyDialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
         }
         else if (sentences[sentenceIndex].ToLowerInvariant().Equals("kids"))
         {
-            DialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
+            EnemyDialogueImage.sprite = Resources.Load<Sprite>("Enemies/Elvis_Pixel");
         }
         //To not print the speaker we increase sentenceIndex
         sentenceIndex += 1;
