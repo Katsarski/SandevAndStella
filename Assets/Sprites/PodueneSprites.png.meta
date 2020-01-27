@@ -1,31 +1,43 @@
 fileFormatVersion: 2
-guid: 33abe822dad34a54d9aff35cf1c29436
+guid: 1ac09aafed906ee46a994be167a3ed88
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: Slug_0
+      213: 6180619525192792528
+    second: building
   - first:
-      213: 21300002
-    second: Slug_1
+      213: 6406984111662792701
+    second: Post1
   - first:
-      213: 21300004
-    second: Slug_2
+      213: -2973584639425938293
+    second: Post2
   - first:
-      213: 21300006
-    second: Slug_3
+      213: -6764722166821861188
+    second: Stairs
   - first:
-      213: 21300008
-    second: Slug_4
+      213: -5319957176127627349
+    second: archway
   - first:
-      213: 21300010
-    second: Slug_5
+      213: -7170452623870315755
+    second: Wall
   - first:
-      213: 21300012
-    second: Slug_6
+      213: -7549822833940048588
+    second: Train_Building
   - first:
-      213: 21300014
-    second: Slug_7
+      213: 4593493916436879579
+    second: WC_Building
+  - first:
+      213: -1937843809094333227
+    second: Tickets_Building
+  - first:
+      213: 994114424768756731
+    second: Underpass
+  - first:
+      213: 2621237523979099194
+    second: Trails
+  - first:
+      213: -3665813508330514885
+    second: Sidewalk
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -69,7 +81,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -107,7 +119,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -119,7 +131,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: iPhone
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -129,174 +141,258 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slug_0
+      name: building
       rect:
         serializedVersion: 2
-        x: 113
-        y: 25
-        width: 32
-        height: 32
+        x: 46
+        y: 470
+        width: 128
+        height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
+      spriteID: 85181c76686f5014ab16ec8c9c35b66b
+      internalID: 6180619525192792528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slug_1
+      name: Post1
       rect:
         serializedVersion: 2
-        x: 194
-        y: 34
-        width: 32
-        height: 32
+        x: 251
+        y: 470
+        width: 81
+        height: 126
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
+      spriteID: 68857afc61508484cbbd065b7c074a78
+      internalID: 6406984111662792701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slug_2
+      name: Post2
       rect:
         serializedVersion: 2
-        x: 274
-        y: 40
-        width: 32
-        height: 32
+        x: 405
+        y: 485
+        width: 69
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
+      spriteID: 4a096006442580340a16a3014fcc82e6
+      internalID: -2973584639425938293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slug_3
+      name: Stairs
       rect:
         serializedVersion: 2
-        x: 352
-        y: 43
-        width: 32
-        height: 32
+        x: 631
+        y: 478
+        width: 102
+        height: 97
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
+      spriteID: 6a547a22ab89d734fbb2c6b404d59034
+      internalID: -6764722166821861188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slug_4
+      name: archway
       rect:
         serializedVersion: 2
-        x: 431
-        y: 37
-        width: 32
-        height: 32
+        x: 912
+        y: 478
+        width: 129
+        height: 110
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
+      spriteID: 3a37e91f42e5005418c05e92c460973e
+      internalID: -5319957176127627349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slug_5
+      name: Wall
       rect:
         serializedVersion: 2
-        x: 511
-        y: 31
-        width: 32
-        height: 32
+        x: 1184
+        y: 492
+        width: 96
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
+      spriteID: 57bbe1cbeaaf21d4dbfeba80c4e67f53
+      internalID: -7170452623870315755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slug_6
+      name: Train_Building
       rect:
         serializedVersion: 2
-        x: 591
-        y: 26
-        width: 32
-        height: 32
+        x: 46
+        y: 212
+        width: 426
+        height: 198
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
+      spriteID: d3bbb0cd2234f394b8aade366a84013a
+      internalID: -7549822833940048588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slug_7
+      name: WC_Building
       rect:
         serializedVersion: 2
-        x: 29
-        y: 25
-        width: 32
-        height: 32
+        x: 587
+        y: 247
+        width: 140
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
+      spriteID: df1d44a983ba8b14fad0edbe1a52b08b
+      internalID: 4593493916436879579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tickets_Building
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 247
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ccd981bfa935941a23dd2d77259717
+      internalID: -1937843809094333227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underpass
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 212
+        width: 443
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae4dddf85f897942b81323cd96c0eae
+      internalID: 994114424768756731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trails
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 1453
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba8b43bdf52d1347898b97c4b313975
+      internalID: 2621237523979099194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sidewalk
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1465
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c226040b57760049982a87985589a34
+      internalID: -3665813508330514885
       vertices: []
       indices: 
       edges: []
@@ -304,7 +400,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 

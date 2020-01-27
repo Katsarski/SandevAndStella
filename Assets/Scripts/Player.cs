@@ -48,7 +48,7 @@ public class Player : MonoBehaviour
     void FixedUpdate()
     {
         horizontal = SimpleInput.GetAxis("Horizontal");
-        Move(horizontal);
+        //Move(horizontal);
 
         #region Jumping
         //Check if we can jump
@@ -56,7 +56,10 @@ public class Player : MonoBehaviour
         {
             //Jump
             myRigidbody.velocity += Vector2.up * System.Math.Abs(Physics2D.gravity.y) * Time.deltaTime * jumpVelocity;
-            anim.SetBool("Jump", true);
+            if (anim.GetBool("Jump") == false)
+            {
+                anim.SetBool("Jump", true);
+            }
         }
         //Check if we are falling and player is still holding Jump
         if (myRigidbody.velocity.y < 0)
@@ -69,11 +72,13 @@ public class Player : MonoBehaviour
             myRigidbody.velocity += (Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime);
         }
         #endregion
-
         isGrounded = Physics2D.OverlapCircle(groundCheck.transform.position, groundCheckRadius, ground);
-
+        myRigidbody.velocity = new Vector2(horizontal * movementSpeed, myRigidbody.velocity.y);
+        Flip(horizontal);
         if (isGrounded == true)
         {
+
+            Move(horizontal);
             anim.SetBool("Jump", false);
         }
 
@@ -86,6 +91,7 @@ public class Player : MonoBehaviour
         if (myRigidbody.velocity.x == 0)
         {
             anim.SetBool("Run", false);
+            anim.SetBool("Idle", true);
         }
         else if (myRigidbody.velocity.x > 0 || myRigidbody.velocity.x < 0)
         {
@@ -106,6 +112,17 @@ public class Player : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D other)
     {
+
+        if (other.gameObject.tag == "Platform")
+        {
+            //If we collide with a platform AND  we are above the platform set grounded to true so we can jump off the platform
+            if (other.transform.position.y < gameObject.transform.position.y)
+            {
+                isGrounded = true;
+            }
+            //Otherwise we are still not grounded - to avoid a bug where we are catapulted to the air
+            isGrounded = false;
+        }
         //Check if we have collided with Enemy
         if (other.gameObject.layer == LayerMask.NameToLayer("Enemy"))
         {
@@ -121,7 +138,7 @@ public class Player : MonoBehaviour
                     Debug.Log("Tried getting EnemyCommon script from enemy but couldn't find it");
                     Debug.LogError(e.Message);
                 }
-                
+
                 Destroy(other.gameObject);
                 myRigidbody.velocity = Vector2.up * enemyHeadJumpMultiplier;
             }
@@ -134,13 +151,24 @@ public class Player : MonoBehaviour
     }
     private void OnCollisionStay2D(Collision2D other)
     {
+        //If we collide with a platform AND  we are above the platform set grounded to true so we can jump off the platform
+        if (other.gameObject.tag == "Platform")
+        {
+            if (other.transform.position.y < gameObject.transform.position.y)
+            {
+                isGrounded = true;
+            }
+            //Otherwise we are still not grounded - to avoid a bug where we are catapulted to the air
+            isGrounded = false;
+
+        }
         //Check if we have collided with Trap
         if (other.gameObject.layer == LayerMask.NameToLayer("Traps"))
         {
             //Take all the hearts from the player
             PlayerHealth.instance.Damage(PlayerHealth.instance.maxHP);
             myRigidbody.velocity = Vector2.up * jumpVelocity;
-            anim.SetBool("Jump", false);
+            //anim.SetBool("Jump", false);
         }
 
 

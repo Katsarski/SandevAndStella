@@ -12,6 +12,9 @@ public class PlatformPatrol : MonoBehaviour {
     private bool shouldGoLeft;
 
     [SerializeField]
+    private bool shouldFlipOnChangeSides;
+
+    [SerializeField]
     private bool shouldGoDown;
 
     [SerializeField]
@@ -42,6 +45,11 @@ public class PlatformPatrol : MonoBehaviour {
                 if (minPatrolObject.position.x > gameObject.transform.position.x)
                 {
                     shouldGoLeft = false;
+                    //If platform should flip on changing sides - flip
+                    if (shouldFlipOnChangeSides == true)
+                    {
+                        gameObject.transform.Rotate(0, 180, 0);
+                    }
                 }
             }
             else if (shouldGoLeft == false)
@@ -50,6 +58,11 @@ public class PlatformPatrol : MonoBehaviour {
                 if (maxPatrolObject.position.x < gameObject.transform.position.x)
                 {
                     shouldGoLeft = true;
+                    //If platform should flip on changing sides - flip
+                    if (shouldFlipOnChangeSides == true)
+                    {
+                        gameObject.transform.Rotate(0, -180, 0);
+                    }
                 }
             }
         }
@@ -76,7 +89,7 @@ public class PlatformPatrol : MonoBehaviour {
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.transform.name == "Player")
+        if (other.transform.name == "Player" && other.transform.position.y > gameObject.transform.position.y)
         {
             Debug.Log("set parent");
             other.collider.transform.SetParent(transform);
@@ -87,7 +100,6 @@ public class PlatformPatrol : MonoBehaviour {
     {
         if (other.transform.name == "Player")
         {
-            Debug.Log("remove parent");
             other.collider.transform.SetParent(null);
         }
     }

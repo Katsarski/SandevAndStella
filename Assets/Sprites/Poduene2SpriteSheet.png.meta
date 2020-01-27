@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: f6fd4ee3c5c6eb84da7a1d11b0493466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5815971181709527539
+    second: trash
+  - first:
+      213: -8661562624402077421
+    second: clean_mop
+  - first:
+      213: 761015016466242249
+    second: clothes_shop
+  - first:
+      213: -3055071967791672671
+    second: book_shop
+  - first:
+      213: -8296553354907479114
+    second: market_shop
+  - first:
+      213: 2477678409810805857
+    second: cofee_table
+  - first:
+      213: -2629621938066105442
+    second: coffe_shop
+  - first:
+      213: 4344336191299102336
+    second: wood_fence
+  - first:
+      213: -8412256325848450717
+    second: ice cream_truck
+  - first:
+      213: -5408020415020351088
+    second: legege
+  - first:
+      213: -3917393889721513135
+    second: legege_car
+  - first:
+      213: 6077295501618715899
+    second: road_barier1
+  - first:
+      213: 524996126379718769
+    second: road_barier2
+  - first:
+      213: 6048827001162131530
+    second: road_barier3
+  - first:
+      213: 8627620334669549571
+    second: shoping_car1
+  - first:
+      213: -4891834317962871207
+    second: shoping_car2
+  - first:
+      213: 6371201469797247869
+    second: cofee_sign
+  - first:
+      213: -6612177788351004148
+    second: trash_truck
+  - first:
+      213: -3420923990325004050
+    second: bilboard
+  - first:
+      213: 2613031634804570727
+    second: station_sign
+  - first:
+      213: 3019244372118346796
+    second: vending1
+  - first:
+      213: -51494874531246840
+    second: vending2
+  - first:
+      213: -8886318053473196010
+    second: street_flower1
+  - first:
+      213: 3490909224708343375
+    second: street_flower2
+  - first:
+      213: -5332384884646346039
+    second: wet_floor
+  - first:
+      213: -4996666733742812984
+    second: station_chair
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trash
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 716
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6652e074910f8964c82c1ad1a0893d01
+      internalID: 5815971181709527539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean_mop
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 715
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee4acf948320e47b5e89175ed701c8
+      internalID: -8661562624402077421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes_shop
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 715
+        width: 239
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f08bce922771f94bb0e2c132e1ef8c4
+      internalID: 761015016466242249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_shop
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 711
+        width: 235
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16476593419d72543a1f6809ccd38354
+      internalID: -3055071967791672671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: market_shop
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 696
+        width: 246
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffd3e15ef77fb34ab299f1d96583876
+      internalID: -8296553354907479114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofee_table
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 628
+        width: 204
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05a80d01e9a193439c423d837c66665
+      internalID: 2477678409810805857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffe_shop
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 630
+        width: 213
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245803e06f675534c9a402e219e1b4ad
+      internalID: -2629621938066105442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_fence
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 199
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be3f860eaf6c7e46ab497ace5c604d6
+      internalID: 4344336191299102336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice cream_truck
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 512
+        width: 243
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff4b01eed63a54ba812bfc6a126967
+      internalID: -8412256325848450717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legege
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 512
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b199895061481c4593870690573e14a
+      internalID: -5408020415020351088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legege_car
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 511
+        width: 151
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5f6dd73ce099488f0221247c5a8e0
+      internalID: -3917393889721513135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_barier1
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 529
+        width: 188
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c8edc0436c34c42a8a93ca9eb59c3e
+      internalID: 6077295501618715899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_barier2
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 495
+        width: 153
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e20f24375bd00646a572df1fde38266
+      internalID: 524996126379718769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_barier3
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 494
+        width: 171
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49f7b2bab323e4408c1a17acf468508
+      internalID: 6048827001162131530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoping_car1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 269
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efce2e4d387da9a40b08ec5a30ef4af7
+      internalID: 8627620334669549571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoping_car2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 286
+        width: 155
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44a8cea90752c2479d0a851144a4d39
+      internalID: -4891834317962871207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cofee_sign
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 295
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb90127558ca24d8551d13dd810496
+      internalID: 6371201469797247869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_truck
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 301
+        width: 292
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a684d798a7f854283dc8a2a843c041
+      internalID: -6612177788351004148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bilboard
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 203
+        width: 236
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee2fadc7ea4214494c8122d1268451
+      internalID: -3420923990325004050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station_sign
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 203
+        width: 152
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b88cd4a4b3e1f849a6483f2c851d492
+      internalID: 2613031634804570727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending1
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 235
+        width: 120
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3adc46562ea08142ae844a314665bda
+      internalID: 3019244372118346796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending2
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 13
+        width: 105
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7669730ca4c5448a0a203fd0c1a690
+      internalID: -51494874531246840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_flower1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 147
+        width: 130
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd9d81781baaa428f231a12a5bbffe
+      internalID: -8886318053473196010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_flower2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 150
+        width: 127
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df74b947e3927d24db700bc16b258b6e
+      internalID: 3490909224708343375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wet_floor
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 118
+        width: 394
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c205508a4002b24da5ab45b38307013
+      internalID: -5332384884646346039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station_chair
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 23
+        width: 303
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee94fa9580b984f89b0b04296b76ae
+      internalID: -4996666733742812984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
