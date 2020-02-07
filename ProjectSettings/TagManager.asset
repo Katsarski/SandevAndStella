@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Platform
   - SlipperyFloor
+  - FloatingCoin
   layers:
   - Default
   - TransparentFX

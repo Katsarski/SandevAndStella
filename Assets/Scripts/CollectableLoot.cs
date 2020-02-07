@@ -26,10 +26,18 @@ public class CollectableLoot : MonoBehaviour {
 
     private void Awake()
     {
-       gameObject.GetComponent<Rigidbody2D>().velocity = 
-           (new Vector2(Random.Range(this.minPushXForceVelocity, this.maxPushXForceVelocity), 
+        if (gameObject.tag == "FloatingCoin")
+        {
+
+        }
+        else
+        {
+           gameObject.GetComponent<Rigidbody2D>().velocity =
+           (new Vector2(Random.Range(this.minPushXForceVelocity, this.maxPushXForceVelocity),
            Random.Range(this.minPushYForceVelocity, this.maxPushYForceVelocity))) *
            Random.Range(this.minPushYForceVelocity, this.maxPushYForceVelocity);
+        }
+       
     }
 
     private void OnCollisionEnter2D(Collision2D other)

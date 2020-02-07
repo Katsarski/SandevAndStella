@@ -59,6 +59,7 @@ public class Player : MonoBehaviour
             if (anim.GetBool("Jump") == false)
             {
                 anim.SetBool("Jump", true);
+                
             }
         }
         //Check if we are falling and player is still holding Jump
@@ -112,17 +113,6 @@ public class Player : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D other)
     {
-
-        if (other.gameObject.tag == "Platform")
-        {
-            //If we collide with a platform AND  we are above the platform set grounded to true so we can jump off the platform
-            if (other.transform.position.y < gameObject.transform.position.y)
-            {
-                isGrounded = true;
-            }
-            //Otherwise we are still not grounded - to avoid a bug where we are catapulted to the air
-            isGrounded = false;
-        }
         //Check if we have collided with Enemy
         if (other.gameObject.layer == LayerMask.NameToLayer("Enemy"))
         {
@@ -149,18 +139,24 @@ public class Player : MonoBehaviour
             }
         }
     }
+
     private void OnCollisionStay2D(Collision2D other)
     {
-        //If we collide with a platform AND  we are above the platform set grounded to true so we can jump off the platform
+
         if (other.gameObject.tag == "Platform")
         {
-            if (other.transform.position.y < gameObject.transform.position.y)
+            //If we collide with a platform AND  we are above the platform set grounded to true so we can jump off the platform
+            //We add a small offset to the platform because there was a bug where the player is not above the platform and is catapulted into the air
+            if (other.transform.position.y + 0.5f < gameObject.transform.position.y)
             {
+                myRigidbody.velocity = Vector2.zero;
                 isGrounded = true;
             }
-            //Otherwise we are still not grounded - to avoid a bug where we are catapulted to the air
-            isGrounded = false;
-
+            else
+            {
+                //Otherwise we are still not grounded - to avoid a bug where we are catapulted to the air
+                isGrounded = false;
+            }
         }
         //Check if we have collided with Trap
         if (other.gameObject.layer == LayerMask.NameToLayer("Traps"))
